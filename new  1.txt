@@ -1,0 +1,6 @@
+
+-add meta tag descriptions
+-title: comp 1950 : homework 1
+-better headings that summarize the content
+-appealing content
+-img tags with descriptive alt attributes
